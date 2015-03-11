@@ -30,3 +30,4 @@ import poster.streaminghttp
 import poster.encode
 
 version = (0, 8, 2) # Thanks JP!
+version_local = '+hivelocity.1'
